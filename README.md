@@ -1,7 +1,7 @@
-dragger
+Dragger
 =======
 
-Dragger is a bookmarklet script which lets you to drag and drop elements in a page.
+Dragger is a bookmarklet script which lets you to drag and drop elements on a page. It's a convinient way to try out new position for an element in a layout.
 
 ## Usage
 
